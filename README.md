@@ -18,9 +18,9 @@
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1610715042</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:omio.somoy@northsouth.edu">omio.somoy@northsouth.edu</a></p>
 
-<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SP21-CSE486-1/1234567-SP21-CSE486-S01">https://github.com/NSU-SP21-CSE486-1/1234567-SP21-CSE486-S01</a></p>
+<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SU21-CSE486-1/1610715_SU21_CSE486_1">https://github.com/NSU-SU21-CSE486-1/1610715_SU21_CSE486_1</a></p>
 
-<p align="center"><strong>Date Prepared</strong><strong>: </strong>March 03, 2021</p>
+<p align="center"><strong>Date Prepared</strong><strong>: </strong>June 17, 2021</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 
